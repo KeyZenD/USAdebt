@@ -26,7 +26,8 @@
    pkg install python git clang freetype libjpeg-turbo -y
    
    pip install -r requirements.txt
- 
+   
+   ``` 
 ## Введите следующие команды (для linux в терминал, а на windows в cmd, если на windows пишет что нету git`а, то скачайте программу со вкладки релизов.)
 
 ```
